@@ -1,0 +1,13 @@
+.btn{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0.5rem;
+    background-color: #222;
+    border-radius: 3px;
+    transition: 0.4s;
+    max-width: 120px;
+}
+
+.btn:hover{
+    color: #fb2;
+}

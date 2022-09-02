@@ -1,0 +1,15 @@
+.home_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.home_container p{
+    color: #c2c2c2;
+}
+
+.home_container img{
+    width: 350px;
+}

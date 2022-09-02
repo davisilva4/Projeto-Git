@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "Infra"
+    },
+    {
+      "id": 2,
+      "category": "Design"
+    },
+    {
+      "id": 3,
+      "category": "Desenvolvimento"
+    },
+    {
+      "id": 4,
+      "category": "Planejamento"
+    }
+  ],
+  "projects": [
+    {
+      "name": "venomous vic",
+      "email": "teste@teste",
+      "budget": "7894",
+      "category": "Design",
+      "id": 3
+    },
+    {
+      "name": "dukoth",
+      "email": "chatuba@mesquita.com",
+      "budget": "5678",
+      "category": "Desenvolvimento",
+      "id": 4
+    }
+  ]
+}

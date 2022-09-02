@@ -1,0 +1,30 @@
+.footer{
+    background-color: #222;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 1.25rem 3rem;
+}
+
+.footer span{
+    color: #fb2;
+}
+
+.social_links{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    color: whitesmoke;
+    font-size: 1.5rem;
+}
+
+.social_link{
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.social_link:hover{
+    color: #fb2;
+}

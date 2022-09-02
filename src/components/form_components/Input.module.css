@@ -1,0 +1,14 @@
+.input_container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.input_container input{
+    padding: 0.3rem;
+    border: none;
+    border-radius: 2px;
+}

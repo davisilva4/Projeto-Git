@@ -1,0 +1,28 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    padding: 1.25rem 3rem;
+    justify-content: space-between;
+    background-color: #222;
+}
+
+.navbar img{
+    cursor: pointer;
+}
+
+.navlinks{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    list-style-type: none;
+}
+
+.navlink a{
+    color: whitesmoke;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.navlink a:hover{
+    color: #fb2;
+}

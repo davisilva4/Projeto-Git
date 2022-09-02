@@ -1,0 +1,19 @@
+.submit_container{
+    display: flex;
+    justify-content: center;
+}
+
+.submit_container input{
+    padding: 0.5rem;
+    font-size: 1rem;
+    background-color: #222;
+    color: whitesmoke;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.submit_container input:hover{
+    color: #fb2;
+}
